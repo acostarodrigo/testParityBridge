@@ -1,0 +1,14 @@
+[parity]
+chain = "private.json"
+base_path = "./"
+[network]
+port = 30302
+[rpc]
+port = 8542
+apis = ["web3", "eth", "net", "personal", "parity", "parity_set", "traces", "rpc", "parity_accounts"]
+[ui]
+port = 8182
+[dapps]
+port = 8082
+[websockets]
+port = 8548

@@ -1,0 +1,9 @@
+{
+  "nodes": [
+    {
+      "url": "enode://b4b8a0b0d5414e96afec494ae0b6c509c377db014cfa90f868ab341851592e71c4e2a914bc7c58547dc24dcca09c0b032bea4789d9493d66f1e1c32540ed713e@192.168.0.4:30300",
+      "attempts": 117,
+      "failures": 116
+    }
+  ]
+}
